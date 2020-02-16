@@ -1,0 +1,7 @@
+{
+  "name": "whocares",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
